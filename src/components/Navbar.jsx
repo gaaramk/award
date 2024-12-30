@@ -61,7 +61,7 @@ const Navbar = () => {
       <header className="absolute top-1/2 w-full -translate-y-1/2">
         <nav className="flex items-center justify-between size-full p-4">
           <div className="flex items-center gap-7">
-            <img src="/images/logo.png" alt="logo" className="w-10" />
+            <img src="images/logo.png" alt="logo" className="w-10" />
 
             <Btn
               id={"product-btn"}
